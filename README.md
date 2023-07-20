@@ -1,4 +1,4 @@
-# pythnon-data
+# python-data
 pythonを用いたデータの分析などの勉強用
 
 ### Pandasなどのツールの使い方や新しいツールを使用した場合にツールの列挙を行う
